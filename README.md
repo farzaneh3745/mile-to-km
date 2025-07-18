@@ -14,9 +14,9 @@ A simple Python GUI application that converts miles to kilometers using Tkinter.
 Make sure Python is installed.  
 Tkinter comes pre-installed with most Python versions.
 
-1. Download the file `mile_to_km.py`
+1. Download the file `main.py`
 2. Run it using the command:
 
 ```bash
-python mile_to_km.py
+python main.py
 
